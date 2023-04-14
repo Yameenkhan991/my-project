@@ -1,3 +1,0 @@
-# my-project
-
-some description
